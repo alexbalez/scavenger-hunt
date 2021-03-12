@@ -2,20 +2,20 @@ This is an example of a scavenger hunt app to be used to help teams find points 
 
 A few examples:
 
-View points:
+View points:  
 ![Viewing points](img/view.png)
 
-Details of an added point:
+Details of an added point:  
 ![Details](img/details.png)
 
-Location:
+Location:  
 ![Options](img/location.png)
 
-Point location:
+Point location:  
 ![Map](img/map.png)
 
-Options:
+Options:  
 ![Options](img/options.png)
 
-Add team member:
+Add team member:  
 ![Add team member](img/addteam.png)
